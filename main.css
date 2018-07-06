@@ -1,0 +1,122 @@
+.toolbar li {
+display:inline;
+background-color: #EEE;
+border: 1px solid;
+border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+margin: 2px;
+padding: .5em;
+}
+
+form .field-block { margin-bottom: 2em; }
+
+div.img-left{/*#img*/
+	float : left;
+	height:250px;
+	margin-right:10px;
+	width: 100px; 
+}
+ 
+ div.photodroite{ /*#img1
+{*/
+float : right;
+width: 100px; 
+height:200px;
+margin-right:10px;
+}
+
+#navigation {
+  width: 200px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navigation1 li {
+  display: inline;
+}
+#navigation1 {
+  margin: 0 ;
+  padding: 0 ;
+  list-style: none ;
+  text-align: center ;
+}
+#navigation1 li {
+  display: inline ;
+  margin-right: 1px ;
+  color: #fff ;
+}
+#navigation1 li a {
+  padding: 4px 20px ;
+  background: #c00 ;
+  color: #fff ;
+  border: 1px solid #600 ;
+  font: 1em "Trebuchet MS",Arial,sans-serif ;
+  line-height: 1em ;
+  text-align: center ;
+  text-decoration: none ;
+}
+
+#navigation1 li a:hover, #navigation li a:focus, #navigation li a:active , #navigation1 li.active a{
+  background: #900 ;
+  text-decoration: underline ;
+}
+.marge {
+margin-left: 5em;
+}
+.table {
+   display:table;
+   width:100%; height:100%;
+   position:absolute;
+}
+
+.table-cell {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+   width:auto;
+   height:auto;
+}
+ #personal{
+    margin-left: 100px;
+    float: left;
+    width: 40%;
+}
+
+#haut{
+    width: 100%;
+}
+ #tableau{
+    border: 1px solid transparent;
+}
+h1
+{
+font-size: 36px;
+}
+.divphoto{
+    float: left;
+    width: 40%;
+    text-align: right;
+}
+.photo{
+    height: 220px;
+}
+.container{
+        width: 95%;
+    margin-left: 5%;
+}
+
+.skills-side-bar{
+    width: 30%;
+    float: left;
+    height: 700px;
+    border-right: 2px solid #7b7676;
+}
+.profile-side-bar{
+    width: 70%;
+}
+
+.h2-align{
+    text-align: left;
+}
+#tool{
+color : #99A3A4; }
